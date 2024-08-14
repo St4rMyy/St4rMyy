@@ -4,12 +4,12 @@
 
 - 1? years old;
 - T.I: programação;
-- PT-BR// ENG // ESP.
+- PT-BR // ENG // ESP.
 
 ## i'm here for...:
 
-Estou aqui para poder guardar projetos criados pelo _`JavaScript / P5.Js`_;
+I'm here to save projects created by _`JavaScript / P5.Js`_;
 
-Todos os projetos também são feitos pelo curso do `Alura`.
+All projects are also done through the `Alura` course.
 
 ![](https://images.app.goo.gl/nwbt1e2rED2Qwzsz7)
